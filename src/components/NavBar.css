@@ -1,0 +1,11 @@
+.nav{
+    display: flex;
+    justify-content: space-around;
+    padding: 15px;
+    background-color: palevioletred;
+}
+
+button{
+    background-color: palevioletred;
+    border: none;
+}
