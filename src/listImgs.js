@@ -16,4 +16,4 @@ const imgs = [
     },
 ]
 
-export default imgs 
+export default imgs

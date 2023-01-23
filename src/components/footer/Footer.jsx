@@ -13,7 +13,7 @@ const Footer = () => {
                 justifyContent: 'center',
             }}
         >
-            <span>Designed and built by Rocío Esteban</span>
+            <span>Designed and built by Gisella Gaia</span>
         </Box>
     )
 }
